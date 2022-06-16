@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/localize": "^13.3.11",
+    "@ng-bootstrap/ng-bootstrap": "^12.1.2",
+    "ngx-pagination": "^6.0.1"
+  }
+}
