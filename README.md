@@ -1,4 +1,4 @@
-## E-commerce de Venta de Videojuegos:
+## E-commerce de Venta de Videojuegos
 Desarrollo de una plataforma web de comercio electrónico para la venta de videojuegos, con funcionalidades de autenticación de usuarios, catálogo de productos y panel de administración.
 Principales funcionalidades:
 Implementación de registro e inicio de sesión de usuarios mediante correo electrónico y contraseña.
